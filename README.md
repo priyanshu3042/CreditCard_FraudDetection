@@ -32,6 +32,14 @@ This project focuses on detecting fraudulent credit card transactions using mach
 - SHAP (Explainable AI)
 - Google Colab
 
+  ## 📦 Files Included
+
+- `credit_card_fraud_detection.ipynb` – Main notebook with all code, plots, and model outputs  
+- `creditcard.csv` – Credit card transaction dataset (to be uploaded manually or via Kaggle)  
+- `requirements.txt` – All required Python libraries to run the notebook  
+- `.gitignore` – Ignores unnecessary files like `__pycache__`, `.ipynb_checkpoints`, `.DS_Store`, etc.  
+- `LICENSE` – MIT License file for open-source sharing and attribution
+
 ---
 
 ##  Workflow Overview
