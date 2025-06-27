@@ -98,8 +98,6 @@ Explains which features most influenced fraud predictions.
 - End-to-end ML pipeline with EDA → Training → Evaluation → Explainability
 
 ## License
-## 🛡 License
-
 This project is licensed under the [MIT License](./LICENSE).
 
 **Note:** The dataset used (`creditcard.csv`) is sourced from [Kaggle - Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud) and is © by the original authors.  
